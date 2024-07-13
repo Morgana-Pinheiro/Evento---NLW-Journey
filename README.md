@@ -33,4 +33,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Nesse projeto iremos desenvolver uma versão simplificada de um sistema de roteiro de viagem!
+Nesse projeto foi desenvolvido uma versão simplificada de um sistema de roteiro de viagem!
+
+[Acesse o projeto online aqui](https://morgana-pinheiro.github.io/Evento-NLW-Journey/)
